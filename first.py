@@ -16,3 +16,20 @@ age=25
 # print(name.lower())
 # ---------------------------String Functions End ---------------------------
 # list
+
+
+# ____________________ Practic set 1__________________________________
+
+
+IronnManFirstName="Tony"
+IronnManFirstLast="Stark"
+IronnManFirstAge=53
+IronnManFirstheight="1.85m"
+print(IronnManFirstName)
+print(IronnManFirstLast)
+print(IronnManFirstAge)
+print(IronnManFirstheight)
+name=input("Enter the superhero name :")
+
+
+print(name)
